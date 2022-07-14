@@ -1,0 +1,2 @@
+document3
+multiply=a*b
